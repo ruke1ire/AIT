@@ -10,6 +10,7 @@ DSA/*
 ML/*
 !ML/JupyterLab/
 !ML/JupyterLab/**
+ML/JupyterLab/pytorch_tutorial/sentdex/resources/*
 
 Programming/*
 !Programming/JupyterLab/
