@@ -16,4 +16,8 @@ Programming/*
 !Programming/JupyterLab/
 !Programming/JupyterLab/**
 
+*test*
+*train*
+*data*
+
 !.gitignore
